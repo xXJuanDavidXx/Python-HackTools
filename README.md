@@ -8,9 +8,6 @@ El fuzzer está diseñado para encontrar directorios o archivos ocultos en pági
     Para realizar ataques de fuerza bruta de manera local después de obtener y identificar un hash de contraseña.
 
 # Social-Engineering
-Sección en desarrollo.
-
----
 
 ## Proyecto de Phishing en Django
 
