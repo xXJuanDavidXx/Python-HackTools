@@ -1,32 +1,27 @@
-# Herramientas para el uso en auditorias de seguridad o ctf(Capture the flag)
+# Herramientas para el uso en auditorías de seguridad o CTF (Capture the Flag)
 
-## fuzzing
-El fuzzer esta echo para encontrar directorios o archivos ocultos en paginas web.
+## Fuzzing
+El fuzzer está diseñado para encontrar directorios o archivos ocultos en páginas web.
 
 ## Brute-Force
 1. Breaking passwords:
-     Para realizar ataques de fuerza bruta de manera local despues de obtener y identificar un hash de contraseña.
+    Para realizar ataques de fuerza bruta de manera local después de obtener y identificar un hash de contraseña.
 
-## Social-engineering
+# Social-Engineering
+Sección en desarrollo.
 
+---
 
-
-
-
-
-# Proyecto de Phishing en Django
+## Proyecto de Phishing en Django
 
 ## Descripción
-
 Este proyecto te permite clonar páginas web y capturar credenciales mediante un formulario. Es ideal para realizar demostraciones o pruebas de seguridad (ethical hacking) en entornos controlados.
 
 ## Requisitos
-
 - Conocimientos básicos de Django.
 - Habilidad para modificar plantillas HTML.
 
 ## Dependencias
-
 - Python
 - Django
 - Node.js y npm (para formateo de HTML con Prettier)
@@ -144,5 +139,4 @@ Para poder compartir el proyecto en una red local y ejecutar el servidor, debes 
 ### Nota sobre redireccionamientos
 
 Puedes redirigir a la víctima solo si estás ejecutando un ataque de Man-in-the-Middle (MITM), lo cual permite interceptar el tráfico de la víctima y redirigirla a tu página clonada.
-
 
